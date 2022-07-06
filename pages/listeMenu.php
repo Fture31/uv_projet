@@ -1,7 +1,8 @@
 <?php
 require '../fonction/functionsComplete.php';
 $id=$_GET['id'];
-
+$id=$_GET['id'];
+$id=$_GET['id'];
 $restaurant = getResto($id);
 
 ?>
